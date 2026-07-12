@@ -4,7 +4,7 @@
 🛠️ Experienced with **Python, HTML, CSS, JavaScript, Bootstrap, and SQL**  
 🚀 I've built responsive web applications and Python-based projects, sharpening my problem-solving skills along the way  
 🌱 Currently seeking an **entry-level Software Engineer / Web Developer** role at an MNC — ready to contribute, learn, and grow  
-📫 Let's connect: [your email / LinkedIn]
+📫 Let's connect: [sasiraj74163@gmail.com / Linkedin : https://www.linkedin.com/in/sasi-deekshath-gangapatnam-605456376/]
 
 ---
 **Tech Stack:**  
